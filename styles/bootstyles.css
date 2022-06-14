@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.common {
+    /*background-color: lightgrey;
+    border: solid 2px white;*/
+    position: absolute;
+}
+
+.header {
+    padding-top: 20px;
+    padding-left: 275px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 515px;
+    z-index: 2;
+    font-size: 22px;
+    
+ 
+}
+
+.subheader{
+    float: right;
+    padding-top: 10px;
+    padding-right: 350px;
+    font-size: 17px;
+}
+
+
+.topleft {
+    
+    top: 600px;
+    left: 220px;
+    right: 2000px;
+    width: 32%;
+    bottom: 175px;
+    padding-top: 40px; 
+    text-align: left;
+    margin: 0 auto;
+}
+.topright {
+    
+    top: 600px;
+    bottom: 175px;
+    right: 220px;
+    left: 2000;
+    width: 32%;
+    padding-top: 40px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.bottomleft {
+    
+    top: 1300px;
+    bottom: 175px;
+    left: 220px;
+    right: 2000px;
+    width: 32%;
+    padding-left: 5px;
+    text-align: left;
+    margin: 0 auto;
+}
+.bottomright {
+    
+    top: 1300px;
+    bottom: 64px;
+    right: 220px;
+    left: 2000;
+    width: 32%;
+    padding-right: 5px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.mainbody {
+    top: 220px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    Text-align: center;
+    font-size: 50px;
+    
+}
+
+
+.footer {
+    top: 1985px;
+    
+    
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    bottom: 20px;
+    border-right: solid 1px #555555;
+    border-top: solid 1px #555555;
+    border-left: solid 1px #555555;
+    background-color: lightgrey;
+    
+}
+.links{
+    right: 450px;
+    padding-right: 2px;
+    padding-top: 40px;
+    font-size: 15px;
+    
+}
+
+.contact{
+    float: right;
+    padding-right: 450px;
+    padding-top: 76px;
+    font-size: 17px;
+}
+.copyright{
+    float: right;
+    padding-left: 325px;
+    padding-top: 80px;
+    font-size: 10px;
+}
+.backtotop{
+    float: right;
+    padding-left: 430px;
+    padding-top: 40px;
+    font-size: 14px;
+}
+.white {
+    color: white;
+}
