@@ -1,6 +1,6 @@
 /*Ammon Turman 06-14-2022*/
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(185, 182, 174);
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
@@ -73,7 +73,7 @@ body {
     left: 2000;
     width: 32%;
     padding-right: 5px;
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
 }
 
@@ -104,11 +104,11 @@ body {
     
 }
 .links{
-    right: 450px;
+    right: 430px;
     padding-right: 2px;
     padding-top: 40px;
-    font-size: 15px;
-    
+    font-size: 18px;
+    Color: rgb(102, 102, 163);
 }
 
 .contact{
@@ -131,4 +131,16 @@ body {
 }
 .white {
     color: white;
+}
+.bold {
+    font-style: bold;
+}
+.brown {
+    color: rgb(114, 37, 37);
+}
+.oblique {
+    font-style: oblique;
+}
+.backgrounding {
+    background-color: rgb(185, 182, 174);
 }
